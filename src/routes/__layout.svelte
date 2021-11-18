@@ -1,11 +1,10 @@
 <script type="ts">
-	$: word = 'hello world!';
+    import SkeletonLoader from "$lib/components/skeleton-loader.svelte";
 </script>
 
-<p>{word}</p>
+<p>Hello welcome to my <span style='display:inline'> <SkeletonLoader width={10}/>  </span> this is just an example on a some of the few things I have been working on at Temporal</p>
 
 <style>
-	p {
-		color: red;
-	}
+
+
 </style>
