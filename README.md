@@ -11,8 +11,6 @@ These are a few things I have worked on at temporal that have been passionate ab
 ## Features
 
 - Uses components made within Temporal UI
-- A small version of Triagery
-- Cool Videos
 - Small features using workflows
 
 ## Developing
